@@ -1,0 +1,1392 @@
+d_kingdom0019_band = {
+	color={ 92 29 18 }
+	color2={ 255 255 255 }
+	
+	capital = 19
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0033_band = {
+	color={ 182 54 154 }
+	color2={ 255 255 255 }
+	
+	capital = 33
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0047_band = {
+	color={ 129 83 33 }
+	color2={ 255 255 255 }
+	
+	capital = 47
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0064_band = {
+	color={ 100 49 13 }
+	color2={ 255 255 255 }
+	
+	capital = 64
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0075_band = {
+	color={ 128 78 39 }
+	color2={ 255 255 255 }
+	
+	capital = 75
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0092_band = {
+	color={ 205 104 5 }
+	color2={ 255 255 255 }
+	
+	capital = 92
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0120_band = {
+	color={ 86 59 13 }
+	color2={ 255 255 255 }
+	
+	capital = 120
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0131_band = {
+	color={ 48 152 158 }
+	color2={ 255 255 255 }
+	
+	capital = 131
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0140_band = {
+	color={ 120 53 34 }
+	color2={ 255 255 255 }
+	
+	capital = 140
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0219_band = {
+	color={ 189 124 46 }
+	color2={ 255 255 255 }
+	
+	capital = 219
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0223_band = {
+	color={ 134 30 13 }
+	color2={ 255 255 255 }
+	
+	capital = 223
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0230_band = {
+	color={ 47 205 198 }
+	color2={ 255 255 255 }
+	
+	capital = 230
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0235_band = {
+	color={ 172 60 158 }
+	color2={ 255 255 255 }
+	
+	capital = 235
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0239_band = {
+	color={ 154 132 33 }
+	color2={ 255 255 255 }
+	
+	capital = 239
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0259_band = {
+	color={ 181 139 48 }
+	color2={ 255 255 255 }
+	
+	capital = 259
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0300_band = {
+	color={ 200 148 21 }
+	color2={ 255 255 255 }
+	
+	capital = 300
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0321_band = {
+	color={ 29 160 163 }
+	color2={ 255 255 255 }
+	
+	capital = 321
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0328_band = {
+	color={ 125 31 62 }
+	color2={ 255 255 255 }
+	
+	capital = 328
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0365_band = {
+	color={ 165 125 59 }
+	color2={ 255 255 255 }
+	
+	capital = 365
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0373_band = {
+	color={ 113 59 33 }
+	color2={ 255 255 255 }
+	
+	capital = 373
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0420_band = {
+	color={ 81 74 1 }
+	color2={ 255 255 255 }
+	
+	capital = 420
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0424_band = {
+	color={ 172 107 62 }
+	color2={ 255 255 255 }
+	
+	capital = 424
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0433_band = {
+	color={ 187 112 52 }
+	color2={ 255 255 255 }
+	
+	capital = 433
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0439_band = {
+	color={ 148 111 25 }
+	color2={ 255 255 255 }
+	
+	capital = 439
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0462_band = {
+	color={ 4 154 153 }
+	color2={ 255 255 255 }
+	
+	capital = 462
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0477_band = {
+	color={ 175 105 33 }
+	color2={ 255 255 255 }
+	
+	capital = 477
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0509_band = {
+	color={ 41 182 19 }
+	color2={ 255 255 255 }
+	
+	capital = 509
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0513_band = {
+	color={ 164 133 56 }
+	color2={ 255 255 255 }
+	
+	capital = 513
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0532_band = {
+	color={ 165 43 179 }
+	color2={ 255 255 255 }
+	
+	capital = 532
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0549_band = {
+	color={ 9 155 0 }
+	color2={ 255 255 255 }
+	
+	capital = 549
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0557_band = {
+	color={ 191 121 61 }
+	color2={ 255 255 255 }
+	
+	capital = 557
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0561_band = {
+	color={ 23 154 158 }
+	color2={ 255 255 255 }
+	
+	capital = 561
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0579_band = {
+	color={ 160 62 147 }
+	color2={ 255 255 255 }
+	
+	capital = 579
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0687_band = {
+	color={ 53 158 43 }
+	color2={ 255 255 255 }
+	
+	capital = 687
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0700_band = {
+	color={ 200 123 55 }
+	color2={ 255 255 255 }
+	
+	capital = 700
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0703_band = {
+	color={ 55 177 168 }
+	color2={ 255 255 255 }
+	
+	capital = 703
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0753_band = {
+	color={ 32 202 176 }
+	color2={ 255 255 255 }
+	
+	capital = 753
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0778_band = {
+	color={ 29 142 27 }
+	color2={ 255 255 255 }
+	
+	capital = 778
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0786_band = {
+	color={ 196 45 179 }
+	color2={ 255 255 255 }
+	
+	capital = 786
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0801_band = {
+	color={ 6 140 4 }
+	color2={ 255 255 255 }
+	
+	capital = 801
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0802_band = {
+	color={ 186 114 38 }
+	color2={ 255 255 255 }
+	
+	capital = 802
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0836_band = {
+	color={ 38 150 178 }
+	color2={ 255 255 255 }
+	
+	capital = 836
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0862_band = {
+	color={ 201 30 188 }
+	color2={ 255 255 255 }
+	
+	capital = 862
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0873_band = {
+	color={ 16 123 56 }
+	color2={ 255 255 255 }
+	
+	capital = 873
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0883_band = {
+	color={ 200 0 182 }
+	color2={ 255 255 255 }
+	
+	capital = 883
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0969_band = {
+	color={ 3 175 15 }
+	color2={ 255 255 255 }
+	
+	capital = 969
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0976_band = {
+	color={ 41 151 0 }
+	color2={ 255 255 255 }
+	
+	capital = 976
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom0994_band = {
+	color={ 166 11 172 }
+	color2={ 255 255 255 }
+	
+	capital = 994
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom1000_band = {
+	color={ 179 154 28 }
+	color2={ 255 255 255 }
+	
+	capital = 1000
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom1006_band = {
+	color={ 174 3 157 }
+	color2={ 255 255 255 }
+	
+	capital = 1006
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom1023_band = {
+	color={ 62 166 179 }
+	color2={ 255 255 255 }
+	
+	capital = 1023
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom1025_band = {
+	color={ 205 7 151 }
+	color2={ 255 255 255 }
+	
+	capital = 1025
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom1038_band = {
+	color={ 206 47 188 }
+	color2={ 255 255 255 }
+	
+	capital = 1038
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom1050_band = {
+	color={ 180 17 197 }
+	color2={ 255 255 255 }
+	
+	capital = 1050
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom1082_band = {
+	color={ 170 14 192 }
+	color2={ 255 255 255 }
+	
+	capital = 1082
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom1119_band = {
+	color={ 192 43 162 }
+	color2={ 255 255 255 }
+	
+	capital = 1119
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom1120_band = {
+	color={ 170 63 174 }
+	color2={ 255 255 255 }
+	
+	capital = 1120
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}
+d_kingdom1152_band = {
+	color={ 174 7 145 }
+	color2={ 255 255 255 }
+	
+	capital = 1152
+	
+	culture = uncultured_swine
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = uncultured_swine_band_composition
+}

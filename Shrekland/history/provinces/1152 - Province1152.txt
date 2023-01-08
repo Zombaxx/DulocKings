@@ -1,0 +1,15 @@
+# 1152 - Province1152
+
+# County Title
+title = c_province1152
+
+# Settlements
+max_settlements = 4
+b_barony1152` = tribal
+b_barony1152a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

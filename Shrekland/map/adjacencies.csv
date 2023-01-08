@@ -1,0 +1,4 @@
+From;To;Type;Through;-1;-1;-1;-1;Comment
+470;501;sea;1185;-1;-1;-1;-1;Province0470-Province0501
+1063;1078;sea;1195;-1;-1;-1;-1;Province1063-Province1078
+1153;1153;portage;1;-1;-1;-1;-1;It will stop working if you remove this
