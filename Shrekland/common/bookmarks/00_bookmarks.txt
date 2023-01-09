@@ -1,7 +1,7 @@
 bm_wp = {
 	name = "BM_WP"
 	desc = "BM_WP_INFO"
-	date = 1066.9.15
+	date = 948.4.22
 	
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_1
@@ -17,7 +17,7 @@ bm_wp = {
 			dna = joxvfbqdxvs
 			properties = am00hb0
 			religion="catholic"
-			culture="german"
+			culture="horse"
 			government = feudal_government
 			dynasty=100780
 		}
